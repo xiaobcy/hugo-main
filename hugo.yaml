@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://xiaobcy.github.io/hugo-main
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
